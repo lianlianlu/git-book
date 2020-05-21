@@ -1,0 +1,64 @@
+{
+    "title": "something",
+    "author": "lianlian",
+    "description": "select * from learn",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "小东西": "https://github.com/lianlianlu"
+        }
+    },
+    "plugins": [
+        "-sharing",
+        "splitter",
+        "anchors",
+        "donate",
+        "sharing-plus",
+        "anchor-navigation-ex",
+        "favicon"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/lianlianlu"
+        },
+        "github-buttons": {
+            "buttons": [
+                {
+                    
+                }
+            ]
+        },
+        "donate": {
+            "title": "",
+            "button": "",
+            "alipayText": " "
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false
+        }
+    }
+}
