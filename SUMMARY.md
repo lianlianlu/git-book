@@ -3,7 +3,7 @@
 ### Part I
 
 * [Introduction](README.md)
-* [Writing is nice](chapter-1/README.md)
+* [mac-配置环境](flutter/mac-配置环境.md)
 * [GitBook is nice](chapter-1/something.md)
 
 ### Part II
